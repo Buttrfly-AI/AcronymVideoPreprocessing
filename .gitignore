@@ -141,3 +141,11 @@ data/
 
 # repositories in use for this project
 first_order_model/
+
+*.zip
+
+txt/
+face-alignment
+
+first_order_model/
+video-preprocessing/
