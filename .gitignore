@@ -143,6 +143,9 @@ data/
 first_order_model/
 
 *.zip
+*.mov
+*.jpg
+*.png
 
 txt/
 face-alignment
