@@ -146,9 +146,12 @@ first_order_model/
 *.mov
 *.jpg
 *.png
+*.mp4
+*.wav
 
 txt/
 face-alignment
 
 first_order_model/
 video-preprocessing/
+ccyclegan/
